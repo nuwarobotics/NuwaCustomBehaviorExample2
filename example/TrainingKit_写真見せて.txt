@@ -1,0 +1,6 @@
+Q: 写真見せて
+A:
+{
+  "word": "PictureView"
+}
+PackageName: com.nuwarobotics.example.custombehavior

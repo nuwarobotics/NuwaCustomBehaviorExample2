@@ -1,0 +1,6 @@
+Q: 占い
+A:
+{
+  "word": "FortuneTell"
+}
+ 

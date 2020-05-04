@@ -1,0 +1,35 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Nuwa Custom Behavior Example</string>
+
+    <string name="ok">ok</string>
+    <string name="cancel">cancel</string>
+    <string name="permission_contacts_rationale">Contacts permissions are needed to demonstrate access.</string>
+
+    <string name="permission_read_phone_hint">Contacts permissions are needed to demonstrate access. PERMISSION_READ_PHONE_STATE</string>
+    <string name="permission_read_external_hint">Contacts permissions are needed to demonstrate access. PERMISSION_READ_EXTERNAL_STORAGE</string>
+    <string name="permission_write_external_hint">Contacts permissions are needed to demonstrate access. PERMISSION_WRITE_EXTERNAL_STORAGE</string>
+    <string name="permission_recode_audio_hint">Contacts permissions are needed to demonstrate access. PERMISSION_RECORD_AUDIO</string>
+    <string name="permission_read_contacts_hint">Contacts permissions are needed to demonstrate access. PERMISSION_READ_CONTACTS</string>
+
+    <string name="welcome_sentence">いらっしゃいませ。ご用件は何でしょうか？</string>
+
+    <!-- Example -->
+    <string name="app_welcome_sentence">こんにちは、僕Kebbi</string>
+    <string name="custom_welcome_sentence_example">きょうは何をして遊びますか？</string>
+    <string name="custom_asr_option1">はい</string>
+    <string name="custom_asr_option2">いいえ</string>
+    <!-- Example: FortuneTell -->
+    <string name="fortune_tell_tts_notify">もしかして・・・悪い結果になっちゃうかもしれませんよ？</string>
+    <string name="fortune_tell_tts_check">占いをして、よろしいですか？</string>
+    <string name="fortune_tell_tts_query_yes_1">それじゃあ、うらないますね。</string>
+    <string name="fortune_tell_tts_query_yes_2">きょうは、なにかいいことがありそう！よかったですね！</string>
+    <string name="fortune_tell_tts_query_not_1">それじゃあ、やめておきますね。</string>
+    <!-- Example: PictureView -->
+    <string name="picture_view_tts_notify">いいですよ！猫の写真でよかったですか？</string>
+    <string name="picture_view_tts_check">猫の写真でよかったですか？</string>
+    <string name="picture_view_tts_query_yes_1">これなんてどうでしょう？</string>
+    <string name="picture_view_tts_query_yes_2">かわいいですよね！</string>
+    <string name="picture_view_tts_query_not_1">じゃあ、魚の写真にしますね</string>
+    <string name="picture_view_tts_query_not_2">あ、猫もうつっちゃってますね</string>
+
+</resources>

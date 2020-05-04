@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="permissions">
+        <item>@string/permission_recode_audio_hint</item>
+        <item>@string/permission_read_phone_hint</item>
+        <item>@string/permission_read_external_hint</item>
+        <item>@string/permission_write_external_hint</item>
+        <item>@string/permission_read_contacts_hint</item>
+    </string-array>
+
+    <string-array name="welcome_sentence">
+        <item>@string/welcome_sentence</item>
+    </string-array>
+
+    <string-array name="example_cmd_options">
+        <item>@string/custom_asr_option1</item>
+        <item>@string/custom_asr_option2</item>
+    </string-array>
+
+</resources>
