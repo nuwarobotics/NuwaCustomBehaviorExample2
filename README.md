@@ -30,7 +30,7 @@ Robot Generation 2
  * Install App and StartService
     + Install to Robot
     + Launch Example App and Press button to start CustomBehaviorService.
- * Setup TrainingKit
+ * Setup TrainingKit  ( [TrainingKit setup tutorial](https://bj.bcebos.com/v1/nuwarobotics-files/ImageJP/TrainingKit/TrainingKit_Tutorial_for_SDK.html) )
     + Setup Your Q&A on TrainingKit Website.
     + Deploy TrainingKit to Robot by SN.
  * Start Test
