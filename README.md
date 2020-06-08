@@ -19,7 +19,7 @@ Robot Generation 2
 
 # `CustomBehavior SDK`
  * Target SDK : `2.0.0.06`
- * [Nuwa Trainingkit Website](https://trainkit.nuwarobotics.com) (Only Allow Business Partner NOW)
+ * [Nuwa Trainkit(トレーニングキット) Website](https://trainkit.nuwarobotics.com) (Only Allow Business Partner NOW)
 
 # `SOP : How to use example`
  * Build APK
@@ -30,9 +30,9 @@ Robot Generation 2
  * Install App and StartService
     + Install to Robot
     + Launch Example App and Press button to start CustomBehaviorService.
- * Setup TrainingKit  ( [TrainingKit setup tutorial](https://bj.bcebos.com/v1/nuwarobotics-files/ImageJP/TrainingKit/TrainingKit_Tutorial_for_SDK.html) )
-    + Setup Your Q&A on TrainingKit Website.
-    + Deploy TrainingKit to Robot by SN.
+ * Setup TrainKit(トレーニングキット)  ( [TrainKit setup tutorial](https://bj.bcebos.com/v1/nuwarobotics-files/ImageJP/TrainingKit/TrainingKit_Tutorial_for_SDK.html) )
+    + Setup Your Q&A on TrainKit Website.
+    + Deploy TrainKit(トレーニングキット) to Robot by SN.
  * Start Test
     + speak question you setup to kebbi
 
